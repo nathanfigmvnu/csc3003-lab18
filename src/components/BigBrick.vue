@@ -1,18 +1,14 @@
 <template>
   <div class="bigbrick">
-    <SmallBrick />
-    <SmallBrick />
-    <SmallBrick />
   </div>
 </template>
 
 <script>
-import SmallBrick from './SmallBrick';
 
 export default {
   name: "BigBrick",
   components: {
-    SmallBrick
+    
   }
 }
 </script>

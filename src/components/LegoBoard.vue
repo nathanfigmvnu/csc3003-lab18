@@ -12,6 +12,17 @@ export default {
   name: "LegoBoard",
   components: {
     BigBrick
+  },
+  props: {
+
+  },
+  data: function() {
+    return {
+      
+    }
+  },
+  methods: {
+    
   }
 }
 </script>
