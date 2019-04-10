@@ -4,12 +4,10 @@
 </template>
 
 <script>
-import BigBrick from "./BigBrick";
 
 export default {
   name: "LegoBoard",
   components: {
-    BigBrick
   },
   props: {
 
