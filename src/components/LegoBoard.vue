@@ -1,7 +1,5 @@
 <template>
   <div class="board">
-    <BigBrick />
-    <BigBrick />
   </div>
 </template>
 
@@ -18,7 +16,7 @@ export default {
   },
   data: function() {
     return {
-      
+
     }
   },
   methods: {
